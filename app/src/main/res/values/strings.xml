@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">MyRefrigerator</string>
-    <string name="tab_text_1">Tab 1</string>
-    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_1"> My Refrigerator</string>
+    <string name="tab_text_2"> Options</string>
 </resources>
